@@ -21,8 +21,8 @@ function getSettings() {
         'goBack': 'shift+h',
         'goForward': 'shift+l',
         'reload': 'r',
-        'tabForward': 'w',
-        'tabBack': 'q',
+        'tabForward': 'ctrl+k',
+        'tabBack': 'ctrl+j',
         'closeTab': 'x',
         'closeTabReverse': 'shift+x',
 

@@ -6,7 +6,7 @@ function getSettings() {
         'hintToggle': 'f',
         'newTabHintToggle': 'shift+f',
         'linkHintCharacters': 'asdfjklqwerzxc',
-        'detectByCursorStyle': false,
+        'detectByCursorStyle': true,
 
         'scrollUp': 'k',
         'scrollDown': 'j',
